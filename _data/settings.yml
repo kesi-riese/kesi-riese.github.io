@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Portfolio
+title: Kesi Riese
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Collection of past works
 
@@ -15,6 +15,8 @@ menu-settings:
       url: '/about/'
     - title: 'Projects'
       url: '/projects/'
+    - title: 'Writing'
+      url: '/writing/'
     - title: 'Contact Me'
       url: '/contact/'
 
@@ -30,7 +32,7 @@ author:
 # Hero Settings
 hero:
   title: Kesi Riese
-  description: Thoughts, stories and ideas.
+  description: Senior software engineer passionate about deep sea computer vision, AI/ML, and data science.
   image: '/images/01.jpg'
 
 
