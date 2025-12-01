@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Kesi Riese
-logo: '/images/kr.png'
+logo: # You can add own logo. For example '/images/logo.png'.
 description: Collection of past works
 
 
